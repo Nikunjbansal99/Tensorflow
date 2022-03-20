@@ -48,6 +48,9 @@ Below is the list of assignments and ungraded labs course-wise.
 2. Image Generator with Validation _(C1_W4_Lab_2_image_generator_with_validation.ipynb)_
 3. Compacted Images _(C1_W4_Lab_3_compacted_images.ipynb)_
 
+
+<img src="https://github.com/Nikunjbansal99/Tensorflow/blob/main/TensorFlow_Developer/C1/c1_cert.png" />
+
 # C2 - Convolutional Neural Networks in TensorFlow
 
 ## Week 1
